@@ -29,3 +29,9 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: send default message
+      uses: appleboy/telegram-action@master
+      with:
+        to: ${{ secrets.5071799431 }}
+        token: ${{ secrets.AAE7PPRAB0v7FHrMjOmLjxEnbOcmUidEe0I }}
+
