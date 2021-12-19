@@ -39,7 +39,7 @@ def max_numb(mas):
     return max_n
 
 
-name_file = 'test.txt'
+name_file = 'Homework3/test.txt'
 if test_correct_input_file(name_file):
     sp = read_file(name_file)
     try:
