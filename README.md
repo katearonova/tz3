@@ -8,4 +8,5 @@
 ![example workflow](https://github.com/katearonova/tz3/actions/workflows/send_message.yml/badge.svg)
 
 # Ссылка на telegram-канал:
+Ссылка: https://t.me/for_hw3
 Username: @for_hw3
