@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: send telegram message on push
-        uses: appleboy/telegram-action@master
+        uses: katearonova/tz3@main
         with:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.AAE7PPRAB0v7FHrMjOmLjxEnbOcmUidEe0I }}
